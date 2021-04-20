@@ -1,2 +1,2 @@
-# python3, P. Luoma
-Python3 harkkoja
+# python3
+Python3 harjoituksia, kevät 2021
