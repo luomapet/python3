@@ -1,0 +1,3 @@
+mathplotlib
+numpy
+pandas
