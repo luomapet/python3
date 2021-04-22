@@ -8,3 +8,4 @@ Lin_fit harjoituksen suora linkki: [![Binder](https://mybinder.org/badge_logo.sv
 
 Invariantti massa: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luomapet/python3/HEAD?filepath=Invariantti%20massa.ipynb)
 
+HR-diagrammi: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luomapet/python3/HEAD?filepath=HR_diagrammi.ipynb)
