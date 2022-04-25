@@ -1,4 +1,8 @@
 # python3
+Melkein tyhjä Jupyter Notebook, k2022:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luomapet/python3/HEAD?labpath=pohja.ipynb)
+
+
 Python3 harjoituksia, kevät 2021. 
 Allaolevat linkit aukeavat selaimen ikkunaan ja voit muokata ja ajaa koodia anaconda näkymässä. Jos et tee muutoksia n. 10 minuutissa niin sivu sulkeutuu. Koodia ei myöskään voi tallettaa mutta voit leikata+liimata sen talteen.
 
